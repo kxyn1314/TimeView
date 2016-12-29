@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimeView</string>
+    <string name="time_txt">%1$s:%2$s:%3$s</string>
+</resources>
